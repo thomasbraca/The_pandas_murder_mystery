@@ -25,5 +25,3 @@ Este ejercicio está pensado más como una práctica para mejorar tus habilidade
 Este proyecto está basado en el popular [The SQL Murder Mystery](https://mystery.knightlab.com/) y adaptado para aprender Pandas.
 
 ---
-
-¡Prepárate para una aventura emocionante y educativa en Pandas City! Descarga los archivos y comienza a resolver el misterio hoy mismo.
